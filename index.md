@@ -1,6 +1,11 @@
 # This is Header 1
 Some text here
 
+## Task List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ## Code Header
 ```
 $ git init
